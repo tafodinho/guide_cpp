@@ -1,5 +1,5 @@
 # Awesome C/C++
-A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. 
 
 - [Awesome C/C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
